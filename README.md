@@ -30,6 +30,8 @@ The objective of our analysis revolved around knowing the sentiments of people f
 -	Text preprocessing.
 -	Vectorization.
 -	Model Training and performance improvement
+-	Value Error faced during XGBoost which was solved using Label Encoder
+  
 
 ### CONCLUSION:
 -	 We conclude that the machine is generating the best results for the Logistic Regression with Grid Search CV (count vectorizer) model with an Accuracy of 78.28% followed by the Logistic Regression with Grid Search CV (TF/ID vectorizer) model with an Accuracy of 77.43%.
