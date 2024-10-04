@@ -43,4 +43,3 @@ The objective of our analysis revolved around knowing the sentiments of people f
 ### 📚 References
 Random Forest Regressor - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html 
 
-Gradient Boosting Documentation - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
